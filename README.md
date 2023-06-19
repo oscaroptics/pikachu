@@ -1,6 +1,6 @@
 # pikachu_weather_app
 
-This is a weather forecasting we-app.
+This is a weather forecasting web-app.
 
 you can give input of any place and this web-app will tell you the tempreture as well as the weather description of the place.
 
